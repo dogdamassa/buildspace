@@ -89,7 +89,7 @@ img { max-width: 100%; display: block; }
   text-decoration: none;
 }
 
-.logo-mark { width: 30px; height: 30px; }
+.logo-mark { width: 34px; height: 34px; object-fit: contain; }
 
 .logo-text {
   font-family: var(--font-head);
